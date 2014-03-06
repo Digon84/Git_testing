@@ -1,5 +1,5 @@
 Test 1
 
 
-Change was made
+Change conflict for merge was made
 Second change
