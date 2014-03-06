@@ -1,5 +1,5 @@
 Test 1
 
 
-Change :) was ? made changing to check what will happen
+Change conflict for merge was made
 Second change
